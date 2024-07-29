@@ -53,12 +53,12 @@ This project implements the Producer-Consumer problem in Java, utilizing the `sy
 - The consumer retrieves these numbers from the buffer and prints them.
 
 ### Sample Output
-Produced: 1 
-Consumed: 1 
-Produced: 2 
-Consumed: 2 
-Produced: 3 
-Consumed: 3 
+Produced: 1 <hr>
+Consumed: 1 <hr>
+Produced: 2 <hr>
+Consumed: 2 <hr>
+Produced: 3 <hr>
+Consumed: 3 <hr>
 ...
 
 
